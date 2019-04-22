@@ -12,12 +12,14 @@
 		</view>
 		<view class="blue txt"  style="height: 300upx; font-size: 50px;">
 			E
-		</view><view class="blue txt"  style="height: 300upx; font-size: 50px;">
+		</view>
+		<view class="blue txt"  style="height: 300upx; font-size: 50px;">
 			F
 		</view>
-		</view><view class="blue txt"  style="height: 300upx; font-size: 50px;">
-			G
+		<view class="blue txt"  style="height: 300upx; font-size: 50px;">
+			F
 		</view>
+		
 	</view>
 </template>
 
