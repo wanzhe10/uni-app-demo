@@ -10,6 +10,9 @@
 		<view class="blue txt"  style="height: 300upx; font-size: 50px;">
 			D
 		</view>
+		<view class="blue txt"  style="height: 300upx; font-size: 50px;">
+			E
+		</view>
 	</view>
 </template>
 
