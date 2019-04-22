@@ -12,6 +12,8 @@
 		</view>
 		<view class="blue txt"  style="height: 300upx; font-size: 50px;">
 			E
+		</view><view class="blue txt"  style="height: 300upx; font-size: 50px;">
+			F
 		</view>
 	</view>
 </template>
