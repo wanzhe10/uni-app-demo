@@ -6,8 +6,9 @@
 		<view class="red txt" style="font-size: 10px;">
 			B
 		</view>
+		
 		<view class="blue txt"  style="height: 300upx; font-size: 50px;">
-			C
+			D
 		</view>
 	</view>
 </template>
