@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/flex-items/flex-items",
+    "pages/align-content/align-content",
+    "pages/align-items/align-items",
+    "pages/justify-content/justify-content",
+    "pages/flex-wrap/flex-wrap",
+    "pages/flex-direction/flex-direction",
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

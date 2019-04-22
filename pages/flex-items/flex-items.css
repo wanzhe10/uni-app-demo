@@ -1,0 +1,34 @@
+.container{
+	/* 定义flex容器 */
+	display: flex;
+	/* 设置容器内部元素的排列方向 
+	* 	row row-reverse
+	* */
+	/* flex-direction: row; */
+	/* flex-direction: row-reverse; */
+	/* flex-direction: row; */
+	/* flex-direction: column; */
+	flex-direction: row;
+}
+.txt{
+	font-size: 20px;
+	width: 150upx;
+	height: 150upx;
+}
+.green{
+	background-color: green;
+	/* order: 0; */
+	/* flex-grow: 1; */
+	
+}
+.red{
+	background-color: red;
+	/* order: 2; */
+	/* flex-grow: 2; */
+	flex-basis: 200upx;
+}
+.blue{
+	background-color: blue;
+	/* order: 1; */
+	/* flex-grow: 1; */
+}

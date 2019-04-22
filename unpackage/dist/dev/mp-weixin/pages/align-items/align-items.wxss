@@ -1,0 +1,48 @@
+.container{
+	/* 定义flex容器 */
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	/* 设置容器内部元素的排列方向 
+	* 	row row-reverse
+	* */
+	/* flex-direction: row; */
+	/* flex-direction: row-reverse; */
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	height: 800rpx;
+	background-color: pink;
+	
+	/* 当元素的高度没有设置 则元素的告诉拉伸高度至 flex 容器的大小。  */
+	/* align-items: stretch; */
+	
+	/* 在交叉轴上向起点位置(向上或者向左) 对齐 */
+	/* align-items: flex-start; */
+	/* 在交叉轴上向结束位置(向下或者向右) 对齐 */
+	/* align-items: flex-end; */
+	
+	/* 用于保证元素中的文字在一条基准线（保证每个文字都在同一条线上） */
+	-webkit-box-align: baseline;
+	-webkit-align-items: baseline;
+	    -ms-flex-align: baseline;
+	        align-items: baseline;
+}
+.txt{
+	font-size: 20px;
+	width: 150rpx;
+	/* height: 150upx; */
+}
+.green{
+	background-color: green;
+}
+.red{
+	background-color: red;
+}
+.blue{
+	background-color: blue;
+}
+

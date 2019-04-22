@@ -1,0 +1,59 @@
+{
+	"pages": [
+		{
+			"path": "pages/align-self/align-self",
+			"style": {
+				"navigationBarTitleText": "uni-app-align-self"
+			}
+		},{
+			"path": "pages/flex-items/flex-items",
+			"style": {
+				"navigationBarTitleText": "uni-app-flex-items"
+			}
+		},
+		{
+			"path": "pages/align-content/align-content",
+			"style": {
+				"navigationBarTitleText": "uni-app-align-content"
+			}
+		},
+		{
+			"path": "pages/align-items/align-items",
+			"style": {
+				"navigationBarTitleText": "uni-app-align-items"
+			}
+		}, //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/justify-content/justify-content",
+			"style": {
+				"navigationBarTitleText": "uni-app-justify-content"
+			}
+		},
+		{
+			"path": "pages/flex-wrap/flex-wrap",
+			"style": {
+				"navigationBarTitleText": "uni-app-flex-wrap"
+			}
+		},
+		{
+			"path": "pages/flex-direction/flex-direction",
+			"style": {
+				"navigationBarTitleText": "uni-app-flex-direction"
+			}
+		},
+
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		}
+
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

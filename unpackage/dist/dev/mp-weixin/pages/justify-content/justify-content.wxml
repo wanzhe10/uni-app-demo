@@ -1,0 +1,1 @@
+<view class="container" bind:__l="__l"><view class="green txt">A</view><view class="red txt">B</view><view class="blue txt">C</view><view class="pink txt">D</view></view>

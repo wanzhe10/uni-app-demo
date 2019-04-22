@@ -1,0 +1,2 @@
+(global["webpackJsonp"] = global["webpackJsonp"] || []).push([["pages/flex-items/flex-items"],[],[["../../../Documents/HBuilderProjects/incident/main.js?{\"page\":\"pages%2Fflex-items%2Fflex-items\"}","common/runtime","common/vendor"]]]);
+//# sourceMappingURL=../../../.sourcemap/mp-weixin/pages/flex-items/flex-items.js.map
