@@ -15,6 +15,9 @@
 		</view><view class="blue txt"  style="height: 300upx; font-size: 50px;">
 			F
 		</view>
+		</view><view class="blue txt"  style="height: 300upx; font-size: 50px;">
+			G
+		</view>
 	</view>
 </template>
 
